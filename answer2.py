@@ -37,5 +37,5 @@ def ask_user(phrases):
       break
 
 
-if __name__=='__main__'      
+if __name__=='__main__':      
 ask_user(phrases)
